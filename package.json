@@ -1,0 +1,17 @@
+{
+    "name": "uk.me.paraskos.oliver.scene-selector",
+    "version": "0.2.5",
+    "displayName": "Scene Selector",
+    "description": "Select scenes in the editor",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://github.com/oparaskos/unity-scene-selector",
+    "changelogUrl": "https://github.com/oparaskos/unity-scene-selector/blob/main/CHANGELOG.md",
+    "licensesUrl": "https://github.com/oparaskos/unity-scene-selector/blob/main/LICENSE",
+    "dependencies": {},
+    "keywords": [],
+    "authors": {
+        "name": "Oliver Zeno Paraskos",
+        "url": "https://oliver.paraskos.me.uk"
+    }
+}

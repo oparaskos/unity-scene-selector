@@ -1,0 +1,18 @@
+{
+    "name": "SceneSelector.Editor",
+    "rootNamespace": "SceneSelector.Editor",
+    "references": [
+        "GUID:4522bd10299d4c778cc3aec0e8574ac3"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
