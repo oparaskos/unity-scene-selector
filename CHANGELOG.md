@@ -1,3 +1,10 @@
+# 1.0.0 (2022-09-02)
+
+
+### Bug Fixes
+
+* **releaserc:** added missing release config file ([2ef07d3](https://github.com/oparaskos/unity-scene-selector/commit/2ef07d37e6a5781ac91f7f3b5b3e49e9acbfa840))
+
 # Changelog
 All notable changes to this project will be documented in this file.
 
